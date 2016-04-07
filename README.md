@@ -14,7 +14,8 @@ The project is published, because requests to the source code.
 
 How it works?
 
-cron(every hour) -> 
+cron(every hour) 
+
 1. download from EVE API kills and jumps data.
 2. parse and fill db
 
