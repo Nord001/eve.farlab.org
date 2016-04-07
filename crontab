@@ -1,0 +1,5 @@
+# update_map
+15 20 * * *     /bin/sh -c "/home/farlab/update_map.sh"
+# update_jumps_kills
+10,55 * * * *   /bin/sh -c "/home/farlab/update_jumps_kills.sh" >/dev/null 2>&1
+
